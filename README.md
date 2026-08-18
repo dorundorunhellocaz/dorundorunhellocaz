@@ -1,6 +1,6 @@
 
 
-## Hi there 👋
+# Hi there 👋
 
 안녕하세요? **DORUNDORUNHELLOCAZ**입니다.
 ### DO RUN DO RUN HELLOCAZ의 의미를 설명해주려고해요~
@@ -14,7 +14,7 @@
 3. 새로운 경험과 배움을 즐기는 편이예요
 4. 반면 쉽게 새로운것만 찾는 경향이있어서 끝까지 해보는 힘을 기르는 중입니다.
 5. 다행히도 인내심과 꾸준함을 가지고 있어서 5년차 헬린이기도합니다
-# 요즘 영감을 가장 받고있는 사진이예요
+## 요즘 영감을 가장 받고있는 사진이예요
 <img width="184" height="212" alt="image" src="https://github.com/user-attachments/assets/fe449ca4-235a-43d3-b876-038c3efccd33" />
     예쁜 욕실 인테리어에 관심이 많이 가지더라구요~
 
